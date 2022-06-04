@@ -1,2 +1,1 @@
-# qiantai
-前端仓库
+#static  下除了admin 其他都是静态路由 不会更改
