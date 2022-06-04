@@ -1,0 +1,51 @@
+<!doctype HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>后台管理员登录</title>
+    <!-- 样 式 文 件 -->
+    <link rel="stylesheet" href="/files/admin/css/login.css">
+    <link rel="stylesheet" href="/files/admin/js/pear/css/pear.css" />
+    <!-- <link rel="stylesheet" href="/files/admin/css/reset.css"> -->
+    <script type="text/javascript" src="http://himg2.huanqiu.com/statics/hq2013/js/lib/jquery1.9.1.js"></script>
+    <script type="text/javascript" src="/files/admin/js/login.js"></script>
+</head>
+<body background="/files/admin/img/background.svg" style="background-size: cover;">
+<div class="login_container">
+    <form class="layui-form" action="javascript:void(0);">
+        <div class="layui-form-item">
+            <img class="logo" src="/files/admin/img/logo.png" />
+            <div class="title">QIN Admin</div>
+            <div class="desc">
+                大数据重点实验室
+            </div>
+        </div>
+        <div class="username_div layui-form-item">
+            <input type="text" placeholder="账 户 :  " name="username" lay-verify="required" hover class="username_div input layui-input" />
+        </div>
+        <div class="password_div layui-form-item">
+            <input type="password" placeholder="密 码 : " name="password" lay-verify="required" hover class="password_div input layui-input" />
+
+        </div>
+        <!-- <div class="layui-form-item">
+            <input placeholder="验证码 : "  hover  required="required" class="code layui-input layui-input-inline"  />
+            <img src="/files/admin/img/captcha.gif" class="codeImage" />
+        </div> -->
+        <div class="layui-form-item">
+            <input type="checkbox" name="" title="记住密码" lay-skin="primary" checked>
+        </div>
+        <div class="layui-form-item">
+            <button type="button" class="login_button pear-btn pear-btn-success" lay-submit lay-filter="login">
+                登 入
+            </button>
+        </div>
+    </form>
+    <!-- <script src="component/layui/layui.js"></script> -->
+    <!-- </form> -->
+</div>
+
+</body>
+</html>
