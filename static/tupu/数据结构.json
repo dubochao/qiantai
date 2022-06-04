@@ -1,0 +1,726 @@
+{
+    "code": 200,
+    "msg": "成功",
+    "data": [
+        {
+            "dependencyId": null,
+            "startTopicId": 13,
+            "endTopicId": 17,
+            "confidence": 0.57149,
+            "domainId": 1,
+            "startTopicName": "可变长数组",
+            "endTopicName": "多重关连数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 12,
+            "endTopicId": 62,
+            "confidence": 16.0895,
+            "domainId": 1,
+            "startTopicName": "四叉树",
+            "endTopicName": "广度优先搜索"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 12,
+            "endTopicId": 25,
+            "confidence": 17.4848,
+            "domainId": 1,
+            "startTopicName": "四叉树",
+            "endTopicName": "八叉树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 12,
+            "endTopicId": 18,
+            "confidence": 10.0826,
+            "domainId": 1,
+            "startTopicName": "四叉树",
+            "endTopicName": "二叉堆"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 10,
+            "endTopicId": 53,
+            "confidence": 0.543209,
+            "domainId": 1,
+            "startTopicName": "系统发生树",
+            "endTopicName": "B树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 73,
+            "endTopicId": 56,
+            "confidence": 1.07016,
+            "domainId": 1,
+            "startTopicName": "队列",
+            "endTopicName": "双向链表"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 73,
+            "endTopicId": 17,
+            "confidence": 0.955181,
+            "domainId": 1,
+            "startTopicName": "队列",
+            "endTopicName": "多重关连数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 73,
+            "endTopicId": 14,
+            "confidence": 1.13208,
+            "domainId": 1,
+            "startTopicName": "队列",
+            "endTopicName": "记录"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 72,
+            "endTopicId": 64,
+            "confidence": 0.646533,
+            "domainId": 1,
+            "startTopicName": "伸展树",
+            "endTopicName": "2-3树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 72,
+            "endTopicId": 10,
+            "confidence": 0.652708,
+            "domainId": 1,
+            "startTopicName": "伸展树",
+            "endTopicName": "系统发生树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 70,
+            "endTopicId": 75,
+            "confidence": 3.62146,
+            "domainId": 1,
+            "startTopicName": "链表",
+            "endTopicName": "枚举"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 70,
+            "endTopicId": 72,
+            "confidence": 1.56084,
+            "domainId": 1,
+            "startTopicName": "链表",
+            "endTopicName": "伸展树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 70,
+            "endTopicId": 47,
+            "confidence": 3.67138,
+            "domainId": 1,
+            "startTopicName": "链表",
+            "endTopicName": "散列函数"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 70,
+            "endTopicId": 40,
+            "confidence": 2.48509,
+            "domainId": 1,
+            "startTopicName": "链表",
+            "endTopicName": "哈希表"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 70,
+            "endTopicId": 31,
+            "confidence": 1.79634,
+            "domainId": 1,
+            "startTopicName": "链表",
+            "endTopicName": "红黑树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 70,
+            "endTopicId": 15,
+            "confidence": 2.57937,
+            "domainId": 1,
+            "startTopicName": "链表",
+            "endTopicName": "双端队列"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 6,
+            "endTopicId": 33,
+            "confidence": 0.535575,
+            "domainId": 1,
+            "startTopicName": "完全二分图",
+            "endTopicName": "佩特森图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 66,
+            "endTopicId": 30,
+            "confidence": 0.76269,
+            "domainId": 1,
+            "startTopicName": "线段树",
+            "endTopicName": "2-3-4树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 66,
+            "endTopicId": 21,
+            "confidence": 0.716076,
+            "domainId": 1,
+            "startTopicName": "线段树",
+            "endTopicName": "数据结构"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 65,
+            "endTopicId": 62,
+            "confidence": 1.13282,
+            "domainId": 1,
+            "startTopicName": "堆栈",
+            "endTopicName": "广度优先搜索"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 65,
+            "endTopicId": 54,
+            "confidence": 2.09824,
+            "domainId": 1,
+            "startTopicName": "堆栈",
+            "endTopicName": "二项堆"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 79,
+            "endTopicId": 71,
+            "confidence": 0.568335,
+            "domainId": 1,
+            "startTopicName": "AA树",
+            "endTopicName": "二元搜寻树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 40,
+            "endTopicId": 21,
+            "confidence": 1.59046,
+            "domainId": 1,
+            "startTopicName": "哈希表",
+            "endTopicName": "数据结构"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 54,
+            "endTopicId": 17,
+            "confidence": 1.04469,
+            "domainId": 1,
+            "startTopicName": "二项堆",
+            "endTopicName": "多重关连数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 65,
+            "endTopicId": 50,
+            "confidence": 2.44549,
+            "domainId": 1,
+            "startTopicName": "堆栈",
+            "endTopicName": "抽象资料型别"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 65,
+            "endTopicId": 15,
+            "confidence": 1.15222,
+            "domainId": 1,
+            "startTopicName": "堆栈",
+            "endTopicName": "双端队列"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 65,
+            "endTopicId": 13,
+            "confidence": 2.57144,
+            "domainId": 1,
+            "startTopicName": "堆栈",
+            "endTopicName": "可变长数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 64,
+            "endTopicId": 66,
+            "confidence": 1.1521,
+            "domainId": 1,
+            "startTopicName": "2-3树",
+            "endTopicName": "线段树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 31,
+            "endTopicId": 53,
+            "confidence": 0.960419,
+            "domainId": 1,
+            "startTopicName": "红黑树",
+            "endTopicName": "B树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 50,
+            "endTopicId": 82,
+            "confidence": 0.693787,
+            "domainId": 1,
+            "startTopicName": "抽象资料型别",
+            "endTopicName": "复合型别"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 53,
+            "endTopicId": 30,
+            "confidence": 1.3654,
+            "domainId": 1,
+            "startTopicName": "B树",
+            "endTopicName": "2-3-4树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 21,
+            "endTopicId": 45,
+            "confidence": 0.869437,
+            "domainId": 1,
+            "startTopicName": "数据结构",
+            "endTopicName": "K-d树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 57,
+            "endTopicId": 69,
+            "confidence": 0.578333,
+            "domainId": 1,
+            "startTopicName": "后缀树",
+            "endTopicName": "树旋转"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 18,
+            "endTopicId": 8,
+            "confidence": 8.20268,
+            "domainId": 1,
+            "startTopicName": "二叉堆",
+            "endTopicName": "树堆"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 81,
+            "endTopicId": 33,
+            "confidence": 1.44605,
+            "domainId": 1,
+            "startTopicName": "凯莱图",
+            "endTopicName": "佩特森图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 16,
+            "endTopicId": 79,
+            "confidence": 0.576421,
+            "domainId": 1,
+            "startTopicName": "平衡树",
+            "endTopicName": "AA树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 16,
+            "endTopicId": 59,
+            "confidence": 0.915306,
+            "domainId": 1,
+            "startTopicName": "平衡树",
+            "endTopicName": "关联数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 16,
+            "endTopicId": 36,
+            "confidence": 0.516943,
+            "domainId": 1,
+            "startTopicName": "平衡树",
+            "endTopicName": "替罪羊树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 32,
+            "endTopicId": 62,
+            "confidence": 2.01522,
+            "domainId": 1,
+            "startTopicName": "连通图",
+            "endTopicName": "广度优先搜索"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 47,
+            "endTopicId": 17,
+            "confidence": 0.898706,
+            "domainId": 1,
+            "startTopicName": "散列函数",
+            "endTopicName": "多重关连数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 15,
+            "endTopicId": 44,
+            "confidence": 0.737737,
+            "domainId": 1,
+            "startTopicName": "双端队列",
+            "endTopicName": "数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 47,
+            "endTopicId": 14,
+            "confidence": 1.0756,
+            "domainId": 1,
+            "startTopicName": "散列函数",
+            "endTopicName": "记录"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 39,
+            "endTopicId": 80,
+            "confidence": 1.1181,
+            "domainId": 1,
+            "startTopicName": "完全图",
+            "endTopicName": "补图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 21,
+            "endTopicId": 14,
+            "confidence": 0.671431,
+            "domainId": 1,
+            "startTopicName": "数据结构",
+            "endTopicName": "记录"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 47,
+            "endTopicId": 59,
+            "confidence": 0.9022,
+            "domainId": 1,
+            "startTopicName": "散列函数",
+            "endTopicName": "关联数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 16,
+            "endTopicId": 17,
+            "confidence": 0.911812,
+            "domainId": 1,
+            "startTopicName": "平衡树",
+            "endTopicName": "多重关连数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 62,
+            "endTopicId": 21,
+            "confidence": 1.51558,
+            "domainId": 1,
+            "startTopicName": "广度优先搜索",
+            "endTopicName": "数据结构"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 39,
+            "endTopicId": 33,
+            "confidence": 1.43992,
+            "domainId": 1,
+            "startTopicName": "完全图",
+            "endTopicName": "佩特森图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 38,
+            "endTopicId": 33,
+            "confidence": 1.23455,
+            "domainId": 1,
+            "startTopicName": "正则图",
+            "endTopicName": "佩特森图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 21,
+            "endTopicId": 56,
+            "confidence": 0.609517,
+            "domainId": 1,
+            "startTopicName": "数据结构",
+            "endTopicName": "双向链表"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 62,
+            "endTopicId": 58,
+            "confidence": 2.24103,
+            "domainId": 1,
+            "startTopicName": "广度优先搜索",
+            "endTopicName": "深度优先搜索"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 53,
+            "endTopicId": 21,
+            "confidence": 1.31879,
+            "domainId": 1,
+            "startTopicName": "B树",
+            "endTopicName": "数据结构"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 30,
+            "endTopicId": 69,
+            "confidence": 0.651401,
+            "domainId": 1,
+            "startTopicName": "2-3-4树",
+            "endTopicName": "树旋转"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 18,
+            "endTopicId": 70,
+            "confidence": 3.44697,
+            "domainId": 1,
+            "startTopicName": "二叉堆",
+            "endTopicName": "链表"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 79,
+            "endTopicId": 69,
+            "confidence": 0.538872,
+            "domainId": 1,
+            "startTopicName": "AA树",
+            "endTopicName": "树旋转"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 54,
+            "endTopicId": 84,
+            "confidence": 0.900904,
+            "domainId": 1,
+            "startTopicName": "二项堆",
+            "endTopicName": "序列"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 30,
+            "endTopicId": 71,
+            "confidence": 0.680864,
+            "domainId": 1,
+            "startTopicName": "2-3-4树",
+            "endTopicName": "二元搜寻树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 46,
+            "endTopicId": 70,
+            "confidence": 1.79449,
+            "domainId": 1,
+            "startTopicName": "字符串",
+            "endTopicName": "链表"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 36,
+            "endTopicId": 45,
+            "confidence": 0.769772,
+            "domainId": 1,
+            "startTopicName": "替罪羊树",
+            "endTopicName": "K-d树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 18,
+            "endTopicId": 22,
+            "confidence": 6.96238,
+            "domainId": 1,
+            "startTopicName": "二叉堆",
+            "endTopicName": "斐波那契堆"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 46,
+            "endTopicId": 65,
+            "confidence": 3.22165,
+            "domainId": 1,
+            "startTopicName": "字符串",
+            "endTopicName": "堆栈"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 44,
+            "endTopicId": 84,
+            "confidence": 1.10919,
+            "domainId": 1,
+            "startTopicName": "数组",
+            "endTopicName": "序列"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 44,
+            "endTopicId": 21,
+            "confidence": 0.75844,
+            "domainId": 1,
+            "startTopicName": "数组",
+            "endTopicName": "数据结构"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 44,
+            "endTopicId": 13,
+            "confidence": 0.681485,
+            "domainId": 1,
+            "startTopicName": "数组",
+            "endTopicName": "可变长数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 39,
+            "endTopicId": 49,
+            "confidence": 1.03386,
+            "domainId": 1,
+            "startTopicName": "完全图",
+            "endTopicName": "二分图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 40,
+            "endTopicId": 16,
+            "confidence": 1.17318,
+            "domainId": 1,
+            "startTopicName": "哈希表",
+            "endTopicName": "平衡树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 38,
+            "endTopicId": 80,
+            "confidence": 0.912728,
+            "domainId": 1,
+            "startTopicName": "正则图",
+            "endTopicName": "补图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 32,
+            "endTopicId": 39,
+            "confidence": 2.8532,
+            "domainId": 1,
+            "startTopicName": "连通图",
+            "endTopicName": "完全图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 32,
+            "endTopicId": 38,
+            "confidence": 3.05857,
+            "domainId": 1,
+            "startTopicName": "连通图",
+            "endTopicName": "正则图"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 21,
+            "endTopicId": 71,
+            "confidence": 0.727478,
+            "domainId": 1,
+            "startTopicName": "数据结构",
+            "endTopicName": "二元搜寻树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 15,
+            "endTopicId": 73,
+            "confidence": 1.03553,
+            "domainId": 1,
+            "startTopicName": "双端队列",
+            "endTopicName": "队列"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 62,
+            "endTopicId": 16,
+            "confidence": 1.0983,
+            "domainId": 1,
+            "startTopicName": "广度优先搜索",
+            "endTopicName": "平衡树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 54,
+            "endTopicId": 30,
+            "confidence": 0.596766,
+            "domainId": 1,
+            "startTopicName": "二项堆",
+            "endTopicName": "2-3-4树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 30,
+            "endTopicId": 45,
+            "confidence": 0.822822,
+            "domainId": 1,
+            "startTopicName": "2-3-4树",
+            "endTopicName": "K-d树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 13,
+            "endTopicId": 59,
+            "confidence": 0.574984,
+            "domainId": 1,
+            "startTopicName": "可变长数组",
+            "endTopicName": "关联数组"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 53,
+            "endTopicId": 16,
+            "confidence": 0.901511,
+            "domainId": 1,
+            "startTopicName": "B树",
+            "endTopicName": "平衡树"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 21,
+            "endTopicId": 69,
+            "confidence": 0.698015,
+            "domainId": 1,
+            "startTopicName": "数据结构",
+            "endTopicName": "树旋转"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 54,
+            "endTopicId": 21,
+            "confidence": 0.550152,
+            "domainId": 1,
+            "startTopicName": "二项堆",
+            "endTopicName": "数据结构"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 64,
+            "endTopicId": 54,
+            "confidence": 1.31802,
+            "domainId": 1,
+            "startTopicName": "2-3树",
+            "endTopicName": "二项堆"
+        },
+        {
+            "dependencyId": null,
+            "startTopicId": 64,
+            "endTopicId": 53,
+            "confidence": 0.549384,
+            "domainId": 1,
+            "startTopicName": "2-3树",
+            "endTopicName": "B树"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+    <script crossorigin="anonymous"  src="./js/jquery.min.js"></script>
+    <script crossorigin="anonymous"  src="./js/echarts.min.js"></script>
+    <script crossorigin="anonymous"  src= "./js/dataTool.min.js " ></script>
+
+    
+
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <script src="./js/bootstrap.min.js"  type="text/javascript"></script>
+    
+    <script crossorigin="anonymous"  src="./js/angular.min.js"></script>
+    <script src="http://cdn.bootcss.com/angular.js/1.5.8/angular-animate.js"></script>
+    <script src="http://cdn.bootcss.com/angular.js/1.5.8/angular-sanitize.js"></script>
+
+    <link href="css/knowlege.css" rel="stylesheet">
+    <script crossorigin="anonymous"  src= "./js/select.js " ></script>
+
+    <script crossorigin="anonymous"  src= "./js/test.js " ></script>
+    <style>
+        
+        #nav{
+
+            color: rgb(14, 13, 13);
+        }
+        #echarts1{
+            position: relative;
+            left: 25%;
+            width: 50%;
+            height: 90%;
+            padding: 0px;
+            margin: 0px;
+            border-width: 1px 1px;
+            cursor: default;
+            border-style: outset;
+            border-color: rgb(43 182 254);
+            
+        }
+        select{
+            border-radius: 5px;
+            padding: 3px 3px;
+            border-width: 2px 2px;
+            border-color: rgb(255, 255, 255);
+            background-color: #064476;
+            color: rgb(255, 255, 255);
+        }
+    </style>
+</head>
+<body class="bg06">
+    <header class="header">
+		<h3 id="chartTitle">知识图谱可视化</h3>
+	</header>
+    
+<!--关系索引-->
+<div id="nav" ng-app="myApp"  ng-controller="menu">
+    <select  ng-init="selectedName = lesson[0]" ng-model="lesson"   ng-options="lesson.subjectName  for lesson in lessons">
+        <option value="选择学科" label="选择学科">--请选择学科--</option>
+    </select>
+    <select ng-init="selectedName = topic[0]" ng-model="topic" ng-change="selectOk()" ng-options="x.domainName  for x in lesson.domains">
+        <option value="选择科目" label="选择科目">--请选择科目--</option>
+    </select>
+    
+<!--        <select id="topic" size="1" onchange="selectCity1(this)">-->
+</div>
+
+
+
+<div id="echarts1">
+    <!-- <button id='mydiv2' style="background-color: #c0ff84;bottom: 20px;" >layer</button> -->
+</div>
+
+
+<script>
+    var myApp1 = angular.module('myApp', []);
+    myApp1.controller('menu', function($scope, $http) {
+        
+    init(getCookie("topic"));
+// 获取学科和课程数据
+$http.get('http://47.95.145.72:8087/domain/getDomainsGroupBySubject').success(
+        function(response) { 
+            //响应response相对，增加状态信息和编码
+            data = response["data"];
+            $scope.lessons = response["data"];
+
+            var classSum = 0;
+            // 切回导航页面时，读取现有课程并更新两个框的值
+            for(let i = 0; i < data.length; i++) {
+                classSum = classSum + data[i].domains.length;
+                if(data[i].subjectName == getCookie("lesson")) {
+
+                    $scope.lesson = data[i];
+
+                    for(let j = 0; j < data[i].domains.length; j++) {
+                        if(data[i].domains[j].domainName == getCookie("topic")) {
+                            $scope.topic = data[i].domains[j];
+
+                        }
+                    }
+                }
+            }
+            $scope.subjectNum = data.length;
+            $scope.classSum = classSum;
+        }
+    );
+
+        $scope.selectOk = function(){  
+        //获取被选中的值  
+        setCookie("topic", $scope.topic.domainName, "d900");
+        setCookie("lesson", $scope.lesson.subjectName, "d900");
+        // var lesson = $scope.lesson.domainName;
+        var topic = $scope.topic.domainName;
+            init(topic);
+
+
+        } 
+
+    });
+</script>
+</body>
+</html>

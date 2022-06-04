@@ -1,0 +1,3513 @@
+{
+    "code": 200,
+    "msg": "成功",
+    "data": [
+        {
+            "subjectId": 1,
+            "subjectName": "计算机科学",
+            "note": "25门课程",
+            "domains": [
+                {
+                    "domainId": 1,
+                    "domainName": "数据结构",
+                    "subjectId": 1,
+                    "domainGrade": "优"
+                },
+                {
+                    "domainId": 4,
+                    "domainName": "数学最佳化",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 6,
+                    "domainName": "最优化",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 7,
+                    "domainName": "信息论",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 9,
+                    "domainName": "计算语言学",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 10,
+                    "domainName": "数据挖掘",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 11,
+                    "domainName": "数据库",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 12,
+                    "domainName": "计算机图形学",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 13,
+                    "domainName": "汇编语言",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 412,
+                    "domainName": "C语言",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 15,
+                    "domainName": "计算机科学基础理论",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 18,
+                    "domainName": "人工智能",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 19,
+                    "domainName": "软件工程(自动构建)",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 202,
+                    "domainName": "编译原理",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 267,
+                    "domainName": "人机交互",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 14,
+                    "domainName": "C语言(自动构建)",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 8,
+                    "domainName": "计算机安全",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 3,
+                    "domainName": "java",
+                    "subjectId": 1,
+                    "domainGrade": "良"
+                },
+                {
+                    "domainId": 413,
+                    "domainName": "数据结构(人工)",
+                    "subjectId": 1,
+                    "domainGrade": "优"
+                },
+                {
+                    "domainId": 414,
+                    "domainName": "操作系统",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 416,
+                    "domainName": "高等数学",
+                    "subjectId": 1,
+                    "domainGrade": "优"
+                },
+                {
+                    "domainId": 503,
+                    "domainName": "计算机系统结构",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 501,
+                    "domainName": "数据库应用",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 879,
+                    "domainName": "机器学习",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 881,
+                    "domainName": "python",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 885,
+                    "domainName": "计算机视觉",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 950,
+                    "domainName": "软件工程",
+                    "subjectId": 1,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 956,
+                    "domainName": "C语言课程",
+                    "subjectId": 1,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 2,
+            "subjectName": "数学",
+            "note": "30门课程",
+            "domains": [
+                {
+                    "domainId": 20,
+                    "domainName": "初等数学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 21,
+                    "domainName": "代数",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 24,
+                    "domainName": "范畴论",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 27,
+                    "domainName": "概率论",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 28,
+                    "domainName": "统计力学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 29,
+                    "domainName": "人口统计学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 30,
+                    "domainName": "决策论",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 32,
+                    "domainName": "代数几何",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 33,
+                    "domainName": "拓扑学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 34,
+                    "domainName": "微分几何",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 35,
+                    "domainName": "三角学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 36,
+                    "domainName": "几何形状",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 38,
+                    "domainName": "初等几何",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 39,
+                    "domainName": "古典几何学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 44,
+                    "domainName": "度量几何",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 45,
+                    "domainName": "离散几何",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 224,
+                    "domainName": "离散数学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 231,
+                    "domainName": "统计学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 239,
+                    "domainName": "线性代数",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 245,
+                    "domainName": "运筹学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 399,
+                    "domainName": "密码学",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 400,
+                    "domainName": "数学分析",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 401,
+                    "domainName": "数值分析",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 403,
+                    "domainName": "微分方程",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 404,
+                    "domainName": "泛函分析",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 405,
+                    "domainName": "矩阵论",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 406,
+                    "domainName": "微积分",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 407,
+                    "domainName": "平面几何",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 408,
+                    "domainName": "立体几何",
+                    "subjectId": 2,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 409,
+                    "domainName": "博弈论",
+                    "subjectId": 2,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 3,
+            "subjectName": "医学",
+            "note": "37门课程",
+            "domains": [
+                {
+                    "domainId": 47,
+                    "domainName": "中医",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 48,
+                    "domainName": "汉医学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 51,
+                    "domainName": "儿科",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 52,
+                    "domainName": "内科学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 53,
+                    "domainName": "兽医学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 56,
+                    "domainName": "免疫学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 57,
+                    "domainName": "内分泌学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 58,
+                    "domainName": "医学遗传学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 62,
+                    "domainName": "产科学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 64,
+                    "domainName": "病理学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 65,
+                    "domainName": "皮肤病学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 66,
+                    "domainName": "眼科",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 67,
+                    "domainName": "神经系统疾病",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 68,
+                    "domainName": "神经内分泌学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 69,
+                    "domainName": "神经解剖学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 73,
+                    "domainName": "消化系统疾病",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 75,
+                    "domainName": "肾脏学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 76,
+                    "domainName": "肺病学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 77,
+                    "domainName": "老年学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 78,
+                    "domainName": "血液学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 79,
+                    "domainName": "脉管学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 80,
+                    "domainName": "医学伦理学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 81,
+                    "domainName": "医学信息学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 83,
+                    "domainName": "医学史",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 84,
+                    "domainName": "医学教育",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 86,
+                    "domainName": "放射线学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 87,
+                    "domainName": "毒理学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 88,
+                    "domainName": "流行病学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 89,
+                    "domainName": "牙科",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 203,
+                    "domainName": "病理解剖学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 223,
+                    "domainName": "精神病学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 228,
+                    "domainName": "生理学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 230,
+                    "domainName": "生药学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 232,
+                    "domainName": "外科学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 240,
+                    "domainName": "药剂学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 241,
+                    "domainName": "药理学",
+                    "subjectId": 3,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 410,
+                    "domainName": "糖尿病",
+                    "subjectId": 3,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 4,
+            "subjectName": "物理学",
+            "note": "38门课程",
+            "domains": [
+                {
+                    "domainId": 90,
+                    "domainName": "等离子体物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 91,
+                    "domainName": "电动力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 92,
+                    "domainName": "磁学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 93,
+                    "domainName": "非线性物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 95,
+                    "domainName": "静电学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 96,
+                    "domainName": "天体力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 97,
+                    "domainName": "固体力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 99,
+                    "domainName": "固体物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 100,
+                    "domainName": "晶体学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 101,
+                    "domainName": "纳米技术",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 102,
+                    "domainName": "理论物理学家",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 103,
+                    "domainName": "量子电子学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 104,
+                    "domainName": "天体物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 107,
+                    "domainName": "医学物理",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 108,
+                    "domainName": "物理海洋学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 114,
+                    "domainName": "光谱学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 116,
+                    "domainName": "物理光学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 117,
+                    "domainName": "声学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 121,
+                    "domainName": "物理学史",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 124,
+                    "domainName": "经典力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 205,
+                    "domainName": "测量学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 206,
+                    "domainName": "电路",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 212,
+                    "domainName": "工程热力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 225,
+                    "domainName": "流体力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 248,
+                    "domainName": "空气动力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 280,
+                    "domainName": "系统工程",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 357,
+                    "domainName": "热力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 358,
+                    "domainName": "粒子物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 359,
+                    "domainName": "光学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 360,
+                    "domainName": "量子光学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 361,
+                    "domainName": "计算物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 362,
+                    "domainName": "原子物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 363,
+                    "domainName": "材料力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 364,
+                    "domainName": "相对论",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 366,
+                    "domainName": "电学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 367,
+                    "domainName": "地球物理学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 368,
+                    "domainName": "电磁学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 386,
+                    "domainName": "量子力学",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 249,
+                    "domainName": "冶金",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 123,
+                    "domainName": "电现象",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 120,
+                    "domainName": "物理学期刊",
+                    "subjectId": 4,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 112,
+                    "domainName": "光学计量",
+                    "subjectId": 4,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 5,
+            "subjectName": "化学",
+            "note": "29门课程",
+            "domains": [
+                {
+                    "domainId": 251,
+                    "domainName": "危险化学品",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 125,
+                    "domainName": "分离过程",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 126,
+                    "domainName": "平衡化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 279,
+                    "domainName": "物理化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 129,
+                    "domainName": "化学元素列表",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 132,
+                    "domainName": "化学史",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 133,
+                    "domainName": "化学合成",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 135,
+                    "domainName": "固体化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 145,
+                    "domainName": "化学工业",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 147,
+                    "domainName": "化学过程",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 148,
+                    "domainName": "化学动力学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 149,
+                    "domainName": "单元操作",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 150,
+                    "domainName": "燃烧学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 151,
+                    "domainName": "环境工程",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 152,
+                    "domainName": "化学键",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 153,
+                    "domainName": "地球化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 154,
+                    "domainName": "超分子化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 155,
+                    "domainName": "胶体化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 156,
+                    "domainName": "糖化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 158,
+                    "domainName": "理论化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 159,
+                    "domainName": "水化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 210,
+                    "domainName": "分析化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 229,
+                    "domainName": "生物化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 234,
+                    "domainName": "无机化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 242,
+                    "domainName": "药物化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 244,
+                    "domainName": "有机化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 253,
+                    "domainName": "立体化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 396,
+                    "domainName": "化学命名法",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 397,
+                    "domainName": "核化学",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 398,
+                    "domainName": "化学战",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 250,
+                    "domainName": "有机金属化合物",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 140,
+                    "domainName": "无机磷化合物",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 268,
+                    "domainName": "家用化学品",
+                    "subjectId": 5,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 957,
+                    "domainName": "储能系统设计",
+                    "subjectId": 5,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 6,
+            "subjectName": "生物学",
+            "note": "30门课程",
+            "domains": [
+                {
+                    "domainId": 254,
+                    "domainName": "蛋白质",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 160,
+                    "domainName": "分子遗传学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 162,
+                    "domainName": "膜生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 163,
+                    "domainName": "发育生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 164,
+                    "domainName": "古生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 165,
+                    "domainName": "组织学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 168,
+                    "domainName": "人体解剖学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 171,
+                    "domainName": "植物解剖学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 172,
+                    "domainName": "植物生理学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 173,
+                    "domainName": "海洋生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 174,
+                    "domainName": "生物伦理学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 176,
+                    "domainName": "神经化学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 178,
+                    "domainName": "演化生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 181,
+                    "domainName": "生物学史",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 182,
+                    "domainName": "生物技术",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 183,
+                    "domainName": "人体生理学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 184,
+                    "domainName": "系统生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 211,
+                    "domainName": "分子生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 219,
+                    "domainName": "环境微生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 256,
+                    "domainName": "生物地理学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 266,
+                    "domainName": "自然保育",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 281,
+                    "domainName": "细胞生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 282,
+                    "domainName": "基因组学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 385,
+                    "domainName": "解剖学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 388,
+                    "domainName": "微生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 389,
+                    "domainName": "植物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 390,
+                    "domainName": "神经生理学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 391,
+                    "domainName": "生物工程",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 392,
+                    "domainName": "细胞解剖学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 393,
+                    "domainName": "遗传学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 276,
+                    "domainName": "血液",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 270,
+                    "domainName": "生物分子",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 269,
+                    "domainName": "肽",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 265,
+                    "domainName": "灭绝",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 264,
+                    "domainName": "生物学文献",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 263,
+                    "domainName": "生物过程",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 262,
+                    "domainName": "基因",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 260,
+                    "domainName": "糖生物学",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 258,
+                    "domainName": "信号转导",
+                    "subjectId": 6,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 259,
+                    "domainName": "受体",
+                    "subjectId": 6,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 7,
+            "subjectName": "经济学",
+            "note": "28门课程",
+            "domains": [
+                {
+                    "domainId": 201,
+                    "domainName": "保险学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 204,
+                    "domainName": "财务管理",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 207,
+                    "domainName": "电子商务",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 222,
+                    "domainName": "会计学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 213,
+                    "domainName": "公共经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 216,
+                    "domainName": "国际经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 217,
+                    "domainName": "国际贸易",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 218,
+                    "domainName": "宏观经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 227,
+                    "domainName": "审计学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 233,
+                    "domainName": "微观经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 246,
+                    "domainName": "政治经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 271,
+                    "domainName": "金融学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 369,
+                    "domainName": "计量经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 370,
+                    "domainName": "金融经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 371,
+                    "domainName": "经济史",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 372,
+                    "domainName": "经济思想史",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 373,
+                    "domainName": "劳动经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 374,
+                    "domainName": "国际金融",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 375,
+                    "domainName": "市场营销",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 376,
+                    "domainName": "中国经济史",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 377,
+                    "domainName": "法律经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 378,
+                    "domainName": "发展经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 379,
+                    "domainName": "财务会计",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 380,
+                    "domainName": "人口经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 382,
+                    "domainName": "管理信息系统",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 383,
+                    "domainName": "数理经济学",
+                    "subjectId": 7,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 384,
+                    "domainName": "世界经济",
+                    "subjectId": 7,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 10,
+            "subjectName": "Medicine",
+            "note": null,
+            "domains": []
+        },
+        {
+            "subjectId": 11,
+            "subjectName": "Physics",
+            "note": null,
+            "domains": []
+        },
+        {
+            "subjectId": 12,
+            "subjectName": "Chemistry",
+            "note": null,
+            "domains": []
+        },
+        {
+            "subjectId": 13,
+            "subjectName": "Biology",
+            "note": null,
+            "domains": []
+        },
+        {
+            "subjectId": 14,
+            "subjectName": "网院",
+            "note": null,
+            "domains": []
+        },
+        {
+            "subjectId": 15,
+            "subjectName": "地理学",
+            "note": "1门课程",
+            "domains": []
+        },
+        {
+            "subjectId": 16,
+            "subjectName": "人工构建",
+            "note": "人工构建",
+            "domains": []
+        },
+        {
+            "subjectId": 17,
+            "subjectName": "法学",
+            "note": "1门课程",
+            "domains": []
+        },
+        {
+            "subjectId": 18,
+            "subjectName": "初中课程",
+            "note": "初中课程",
+            "domains": [
+                {
+                    "domainId": 417,
+                    "domainName": "七年级语文",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 418,
+                    "domainName": "八年级语文",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 419,
+                    "domainName": "九年级语文",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 420,
+                    "domainName": "七年级数学",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 421,
+                    "domainName": "八年级数学",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 422,
+                    "domainName": "九年级数学",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 424,
+                    "domainName": "八年级物理",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 425,
+                    "domainName": "九年级物理",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 426,
+                    "domainName": "九年级化学",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 427,
+                    "domainName": "七年级生物",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 428,
+                    "domainName": "八年级生物",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 430,
+                    "domainName": "七年级历史",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 431,
+                    "domainName": "八年级历史",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 432,
+                    "domainName": "九年级历史",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 433,
+                    "domainName": "七年级地理",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 434,
+                    "domainName": "八年级地理",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 436,
+                    "domainName": "七年级政治",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 437,
+                    "domainName": "八年级政治",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 438,
+                    "domainName": "九年级政治",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 439,
+                    "domainName": "初中信息技术",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 467,
+                    "domainName": "七年级英语",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 468,
+                    "domainName": "八年级英语",
+                    "subjectId": 18,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 469,
+                    "domainName": "九年级英语",
+                    "subjectId": 18,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 19,
+            "subjectName": "高中课程",
+            "note": "高中课程",
+            "domains": [
+                {
+                    "domainId": 440,
+                    "domainName": "高一语文",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 441,
+                    "domainName": "高二语文",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 442,
+                    "domainName": "高三语文",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 444,
+                    "domainName": "高中数学",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 446,
+                    "domainName": "高一英语",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 447,
+                    "domainName": "高二英语",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 448,
+                    "domainName": "高三英语",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 449,
+                    "domainName": "高一物理",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 450,
+                    "domainName": "高二物理",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 451,
+                    "domainName": "高三物理",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 452,
+                    "domainName": "高一化学",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 453,
+                    "domainName": "高二化学",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 454,
+                    "domainName": "高三化学",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 455,
+                    "domainName": "高一生物",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 456,
+                    "domainName": "高二生物",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 457,
+                    "domainName": "高三生物",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 458,
+                    "domainName": "高一历史",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 459,
+                    "domainName": "高二历史 ",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 461,
+                    "domainName": "高一政治",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 462,
+                    "domainName": "高二政治",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 463,
+                    "domainName": "高三政治",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 464,
+                    "domainName": "高一地理",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 465,
+                    "domainName": "高二地理",
+                    "subjectId": 19,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 466,
+                    "domainName": "高三地理",
+                    "subjectId": 19,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 20,
+            "subjectName": "小学课程",
+            "note": "小学课程",
+            "domains": [
+                {
+                    "domainId": 954,
+                    "domainName": "低年级(1-2)数学",
+                    "subjectId": 20,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 471,
+                    "domainName": "低年级(1-2)语文",
+                    "subjectId": 20,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 480,
+                    "domainName": "高年级(5-6)数学",
+                    "subjectId": 20,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 483,
+                    "domainName": "中年级(3-4)英语",
+                    "subjectId": 20,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 488,
+                    "domainName": "低年级(1-2)科学",
+                    "subjectId": 20,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 490,
+                    "domainName": "五年级科学",
+                    "subjectId": 20,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 955,
+                    "domainName": "中年级(3-4)数学",
+                    "subjectId": 20,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 21,
+            "subjectName": "示范课程",
+            "note": null,
+            "domains": [
+                {
+                    "domainId": 500,
+                    "domainName": "示范课程高等数学",
+                    "subjectId": 21,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 645,
+                    "domainName": "电气系统",
+                    "subjectId": 21,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 657,
+                    "domainName": "可持续建筑",
+                    "subjectId": 21,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 663,
+                    "domainName": "建筑设计",
+                    "subjectId": 21,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 671,
+                    "domainName": "建築獎項‎",
+                    "subjectId": 21,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 958,
+                    "domainName": "工业机器人智能故障诊断及健康评估系统",
+                    "subjectId": 21,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 22,
+            "subjectName": "测试",
+            "note": "测试",
+            "domains": [
+                {
+                    "domainId": 504,
+                    "domainName": "企业知识森林",
+                    "subjectId": 22,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 35,
+            "subjectName": "社会学",
+            "note": "社会学",
+            "domains": [
+                {
+                    "domainId": 226,
+                    "domainName": "商法学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 615,
+                    "domainName": "古代語言",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 627,
+                    "domainName": "流行語",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 647,
+                    "domainName": "社会法",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 660,
+                    "domainName": "社会政策",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 674,
+                    "domainName": "环境社会科学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 676,
+                    "domainName": "犯罪社会学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 677,
+                    "domainName": "中国社会问题",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 678,
+                    "domainName": "职业安全与健康",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 679,
+                    "domainName": "宗教社会学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 684,
+                    "domainName": "军事社会学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 685,
+                    "domainName": "中国传统哲学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 686,
+                    "domainName": "中国传统技艺",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 690,
+                    "domainName": "中国流行文化",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 706,
+                    "domainName": "中华人民共和国社会保障制度",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 716,
+                    "domainName": "质性研究",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 755,
+                    "domainName": "社会伦理",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 728,
+                    "domainName": "社会运动史",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 751,
+                    "domainName": "社会科学哲学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 766,
+                    "domainName": "马克思主义",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 803,
+                    "domainName": "社会理论",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 836,
+                    "domainName": "古代语言",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 819,
+                    "domainName": "社会心理学",
+                    "subjectId": 35,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 837,
+                    "domainName": "流行语",
+                    "subjectId": 35,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 34,
+            "subjectName": "心理学",
+            "note": "心理学14",
+            "domains": [
+                {
+                    "domainId": 617,
+                    "domainName": "教育心理学",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 644,
+                    "domainName": "心理健康",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 700,
+                    "domainName": "生物心理学",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 701,
+                    "domainName": "神经心理学",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 702,
+                    "domainName": "认知心理学",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 712,
+                    "domainName": "社區心理學",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 714,
+                    "domainName": "異常心理學",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 746,
+                    "domainName": "社會心理學",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 747,
+                    "domainName": "精神病學",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 762,
+                    "domainName": "心理學概念",
+                    "subjectId": 34,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 761,
+                    "domainName": "心理战",
+                    "subjectId": 34,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 33,
+            "subjectName": "Mathmatics",
+            "note": "mathmatics",
+            "domains": [
+                {
+                    "domainId": 604,
+                    "domainName": "Arithmetic",
+                    "subjectId": 33,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 611,
+                    "domainName": "Category_theory",
+                    "subjectId": 33,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 630,
+                    "domainName": "Calculus‎",
+                    "subjectId": 33,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 658,
+                    "domainName": "Partial_differential_equations",
+                    "subjectId": 33,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 710,
+                    "domainName": "Stochastic_processes",
+                    "subjectId": 33,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 789,
+                    "domainName": "Calculus",
+                    "subjectId": 33,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 32,
+            "subjectName": "通信技术",
+            "note": "通信技术",
+            "domains": [
+                {
+                    "domainId": 589,
+                    "domainName": "無缐電",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 591,
+                    "domainName": "无线电技术",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 592,
+                    "domainName": "电子工程",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 600,
+                    "domainName": "嵌入式系统",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 602,
+                    "domainName": "電子元件",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 605,
+                    "domainName": "半導體",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 608,
+                    "domainName": "通信技术",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 612,
+                    "domainName": "电力",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 631,
+                    "domainName": "网络软件",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 661,
+                    "domainName": "无线网络",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 711,
+                    "domainName": "应用程序接口",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 724,
+                    "domainName": "软件架构",
+                    "subjectId": 32,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 729,
+                    "domainName": "微處理器",
+                    "subjectId": 32,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 31,
+            "subjectName": "历史学",
+            "note": "历史学",
+            "domains": [
+                {
+                    "domainId": 587,
+                    "domainName": "文献学",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 583,
+                    "domainName": "军事史学",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 584,
+                    "domainName": "考古学",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 586,
+                    "domainName": "漢學",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 588,
+                    "domainName": "中国历史学",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 590,
+                    "domainName": "日本历史学",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 593,
+                    "domainName": "史学史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 594,
+                    "domainName": "古文字学",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 595,
+                    "domainName": "日本歷史認識問題",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 598,
+                    "domainName": "中国地理史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 599,
+                    "domainName": "中国科技史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 601,
+                    "domainName": "中国社会史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 606,
+                    "domainName": "中国文学史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 607,
+                    "domainName": "中国教育史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 609,
+                    "domainName": "年表",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 619,
+                    "domainName": "中国交通史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 620,
+                    "domainName": "中国天文史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 621,
+                    "domainName": "日本文化史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 622,
+                    "domainName": "日本交通史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 623,
+                    "domainName": "俄罗斯政治史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 624,
+                    "domainName": "希腊历史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 625,
+                    "domainName": "英国文化史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 626,
+                    "domainName": "地质年代",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 632,
+                    "domainName": "英国军事史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 633,
+                    "domainName": "英国社会史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 634,
+                    "domainName": "英国经济史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 635,
+                    "domainName": "美国政治史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 636,
+                    "domainName": "美国军事史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 637,
+                    "domainName": "美国经济史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 638,
+                    "domainName": "美国文化史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 639,
+                    "domainName": "美国外交史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 640,
+                    "domainName": "美国罪案",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 641,
+                    "domainName": "中国考古学",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 787,
+                    "domainName": "中国人民解放军历史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 788,
+                    "domainName": "中国水军史",
+                    "subjectId": 31,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 30,
+            "subjectName": "Technology",
+            "note": "Technology",
+            "domains": [
+                {
+                    "domainId": 580,
+                    "domainName": "Real-time_technology‎",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 581,
+                    "domainName": "Science_and_technology",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 578,
+                    "domainName": "Technology_organizations‎",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 577,
+                    "domainName": "Obsolete_technologies",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 576,
+                    "domainName": "Mobile_technology‎",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 574,
+                    "domainName": "History_of_technology‎",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 575,
+                    "domainName": "Hypothetical_technology‎ ",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 573,
+                    "domainName": "High-technology_business_districts‎ ",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 571,
+                    "domainName": "Technology_development‎",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 568,
+                    "domainName": "Technological_change‎ ",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 569,
+                    "domainName": "Technological_comparisons‎",
+                    "subjectId": 30,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 840,
+                    "domainName": "Technical_specifications‎",
+                    "subjectId": 30,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 36,
+            "subjectName": "History",
+            "note": "History",
+            "domains": [
+                {
+                    "domainId": 618,
+                    "domainName": "History_of_North_Korea",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 628,
+                    "domainName": "History_of_ancient_China",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 653,
+                    "domainName": "Economic_history_of_Greece",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 654,
+                    "domainName": "Cultural_history_of_Russia",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 659,
+                    "domainName": "Social_history_of_Japan",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 656,
+                    "domainName": "Economic_history_of_France",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 680,
+                    "domainName": "Military_history_of_Greece",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 681,
+                    "domainName": "Political_history_of_Egypt",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 682,
+                    "domainName": "Jewish_Egyptian_history",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 683,
+                    "domainName": "Cultural_history_of_France",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 725,
+                    "domainName": "Geographic_history_of_China",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 726,
+                    "domainName": "Economic_history_of_Italy",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 734,
+                    "domainName": "Archaeology_of_China",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 756,
+                    "domainName": "Historiography_of_China",
+                    "subjectId": 36,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 786,
+                    "domainName": "Cultural_heritage_of_China",
+                    "subjectId": 36,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 37,
+            "subjectName": "Physics",
+            "note": "Physics",
+            "domains": []
+        },
+        {
+            "subjectId": 38,
+            "subjectName": "建筑学",
+            "note": "建筑学",
+            "domains": []
+        },
+        {
+            "subjectId": 40,
+            "subjectName": "Religious studies",
+            "note": "Religious studies16",
+            "domains": []
+        },
+        {
+            "subjectId": 58,
+            "subjectName": "合同法",
+            "note": "合同法图谱数据",
+            "domains": [
+                {
+                    "domainId": 880,
+                    "domainName": "合同法",
+                    "subjectId": 58,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 49,
+            "subjectName": "法学",
+            "note": "法学15",
+            "domains": []
+        },
+        {
+            "subjectId": 43,
+            "subjectName": "音樂理論",
+            "note": "音樂理論",
+            "domains": []
+        },
+        {
+            "subjectId": 44,
+            "subjectName": "艺术学",
+            "note": "艺术学",
+            "domains": [
+                {
+                    "domainId": 770,
+                    "domainName": "東亞傳統繪畫",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 665,
+                    "domainName": "金屬加工",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 667,
+                    "domainName": "雕塑",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 668,
+                    "domainName": "中国戏曲",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 669,
+                    "domainName": "后现代艺术",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 769,
+                    "domainName": "音樂理論",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 687,
+                    "domainName": "中國動畫電影",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 688,
+                    "domainName": "手工艺",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 689,
+                    "domainName": "中国文学作品",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 691,
+                    "domainName": "中国陶瓷",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 703,
+                    "domainName": "電影理論",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 713,
+                    "domainName": "現代藝術",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 742,
+                    "domainName": "舞蹈",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 743,
+                    "domainName": "繪畫",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 744,
+                    "domainName": "中国美术",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 745,
+                    "domainName": "乐器",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 771,
+                    "domainName": "古典音樂",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 777,
+                    "domainName": "電影製作",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 781,
+                    "domainName": "中國電影作品",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 792,
+                    "domainName": "表演藝術",
+                    "subjectId": 44,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 830,
+                    "domainName": "視覺藝術",
+                    "subjectId": 44,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 45,
+            "subjectName": "Humanities",
+            "note": "Humanities",
+            "domains": [
+                {
+                    "domainId": 693,
+                    "domainName": "Comedy_rock",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 768,
+                    "domainName": "Phonology",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 773,
+                    "domainName": "Paleoanthropology",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 774,
+                    "domainName": "Ethnic_studies",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 856,
+                    "domainName": "Ethics",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 780,
+                    "domainName": "Chinese_mythology",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 782,
+                    "domainName": "Folk_culture",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 783,
+                    "domainName": "Comedy-drama",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 799,
+                    "domainName": "Media_studies",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 791,
+                    "domainName": "Human_genetics",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 793,
+                    "domainName": "Ethnology",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 797,
+                    "domainName": "Genealogy",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 808,
+                    "domainName": "Cosmology",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 824,
+                    "domainName": "History_of_literature",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 825,
+                    "domainName": "Archaeology",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 826,
+                    "domainName": "Political_culture",
+                    "subjectId": 45,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 829,
+                    "domainName": "Epistemology",
+                    "subjectId": 45,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 57,
+            "subjectName": "Computer Science",
+            "note": "Computer Science",
+            "domains": [
+                {
+                    "domainId": 283,
+                    "domainName": "Data Structure",
+                    "subjectId": 57,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 284,
+                    "domainName": "History_of_computer_science",
+                    "subjectId": 57,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 285,
+                    "domainName": "Java_(programming_language)",
+                    "subjectId": 57,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 874,
+                    "domainName": "Augmented_reality",
+                    "subjectId": 57,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 873,
+                    "domainName": "Self-driving_cars",
+                    "subjectId": 57,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 878,
+                    "domainName": "Knowledge_bases",
+                    "subjectId": 57,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 48,
+            "subjectName": "地理",
+            "note": "地理",
+            "domains": [
+                {
+                    "domainId": 247,
+                    "domainName": "地图学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 651,
+                    "domainName": "文化地理学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 662,
+                    "domainName": "经济地理学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 673,
+                    "domainName": "历史地理学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 754,
+                    "domainName": "海洋学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 727,
+                    "domainName": "测绘学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 760,
+                    "domainName": "气象学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 849,
+                    "domainName": "亚洲生态区",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 776,
+                    "domainName": "歷史遺跡",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 778,
+                    "domainName": "古希腊地理",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 785,
+                    "domainName": "地震学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 794,
+                    "domainName": "农业生态学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 795,
+                    "domainName": "水域生态学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 798,
+                    "domainName": "淡水生态学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 812,
+                    "domainName": "太陽系天體地形",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 822,
+                    "domainName": "自然地理學",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 816,
+                    "domainName": "地质学",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 833,
+                    "domainName": "區域研究",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 834,
+                    "domainName": "領土變遷",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 835,
+                    "domainName": "边境地形",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 838,
+                    "domainName": "植被",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 850,
+                    "domainName": "地方史",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 844,
+                    "domainName": "各國地理史",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 845,
+                    "domainName": "地區主義",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 848,
+                    "domainName": "各國地區",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 851,
+                    "domainName": "地方自治",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 852,
+                    "domainName": "地名學",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 853,
+                    "domainName": "气候带",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 854,
+                    "domainName": "氣候史",
+                    "subjectId": 48,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 855,
+                    "domainName": "各國氣候",
+                    "subjectId": 48,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 51,
+            "subjectName": "Nature",
+            "note": "Nature",
+            "domains": [
+                {
+                    "domainId": 699,
+                    "domainName": "Ecological_economics",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 694,
+                    "domainName": "Ecotoxicology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 695,
+                    "domainName": "Evolutionary_ecology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 696,
+                    "domainName": "Chemical_ecology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 698,
+                    "domainName": "Insular_ecology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 704,
+                    "domainName": "Trophic_ecology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 705,
+                    "domainName": "Ecological_genetics",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 707,
+                    "domainName": "Marine_geology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 715,
+                    "domainName": "Genomics",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 721,
+                    "domainName": "Environmental_microbiology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 723,
+                    "domainName": "Plant_physiology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 763,
+                    "domainName": "Histology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 748,
+                    "domainName": "Cell_anatomy",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 749,
+                    "domainName": "Sandstone",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 750,
+                    "domainName": "Freshwater_ecology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 764,
+                    "domainName": "Astronomical_events",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 765,
+                    "domainName": "Human_physiology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 800,
+                    "domainName": "Developmental_neuroscience",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 801,
+                    "domainName": "Cloning",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 802,
+                    "domainName": "Cytopathology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 809,
+                    "domainName": "Soil_science",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 810,
+                    "domainName": "Plant_anatomy",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 817,
+                    "domainName": "Organic_farming",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 818,
+                    "domainName": "Developmental_biology",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 820,
+                    "domainName": "Energy_economics",
+                    "subjectId": 51,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 831,
+                    "domainName": "Photochemistry",
+                    "subjectId": 51,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 52,
+            "subjectName": "天文学",
+            "note": "天文学",
+            "domains": [
+                {
+                    "domainId": 731,
+                    "domainName": "银河系天文学",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 732,
+                    "domainName": "古代天文学",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 733,
+                    "domainName": "天体测量学",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 735,
+                    "domainName": "引力波天文学",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 736,
+                    "domainName": "X射线天文学",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 737,
+                    "domainName": "占星術史",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 738,
+                    "domainName": "天體生物學",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 739,
+                    "domainName": "天球坐标系统",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 740,
+                    "domainName": "太空科學",
+                    "subjectId": 52,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 741,
+                    "domainName": "恒星天文学",
+                    "subjectId": 52,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 53,
+            "subjectName": "Geography",
+            "note": "Geography",
+            "domains": [
+                {
+                    "domainId": 806,
+                    "domainName": "Paleogeography",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 804,
+                    "domainName": "Language_geography",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 805,
+                    "domainName": "Military_geography",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 807,
+                    "domainName": "Pedology",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 811,
+                    "domainName": "Structural_geology",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 857,
+                    "domainName": "Collaborative_mapping",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 858,
+                    "domainName": "Geographic_coordinate_systems",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 859,
+                    "domainName": "Geographic_information_systems",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 860,
+                    "domainName": "History_of_cartography",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 861,
+                    "domainName": "Structural_basins",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 862,
+                    "domainName": "Web_mapping",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 870,
+                    "domainName": "Military_cartography",
+                    "subjectId": 53,
+                    "domainGrade": null
+                },
+                {
+                    "domainId": 872,
+                    "domainName": "Ancient_Egyptian_buildings_and_structures",
+                    "subjectId": 53,
+                    "domainGrade": null
+                }
+            ]
+        },
+        {
+            "subjectId": 56,
+            "subjectName": "Philosophy",
+            "note": "philosophy",
+            "domains": []
+        }
+    ]
+}

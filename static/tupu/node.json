@@ -1,0 +1,962 @@
+[
+    {
+        "id": "6",
+        "name": "完全二分图",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "8",
+        "name": "树堆",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "10",
+        "name": "系统发生树",
+        "itemStyle": null,
+        "symbolSize": 11.294087,
+        "attributes": {
+            "eccentricity": 3,
+            "closnesscentrality": 0.38235294117647056,
+            "harmonicclosnesscentrality": 0.423076923076923,
+            "betweenesscentrality": 4.25,
+            "modularity_class": 2
+        },
+        "value": 11.294087,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 2
+    },
+    {
+        "id": "12",
+        "name": "四叉树",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 5,
+            "closnesscentrality": 0.30526315789473685,
+            "harmonicclosnesscentrality": 0.3591954022988506,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "13",
+        "name": "可变长数组",
+        "itemStyle": null,
+        "symbolSize": 11.623953,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 5.333333333333333,
+            "modularity_class": 4
+        },
+        "value": 11.623953,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "14",
+        "name": "记录",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 3
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "15",
+        "name": "双端队列",
+        "itemStyle": null,
+        "symbolSize": 15.5011425,
+        "attributes": {
+            "eccentricity": 3,
+            "closnesscentrality": 0.46153846153846156,
+            "harmonicclosnesscentrality": 0.5277777777777778,
+            "betweenesscentrality": 18.066666666666666,
+            "modularity_class": 4
+        },
+        "value": 15.5011425,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "16",
+        "name": "平衡树",
+        "itemStyle": null,
+        "symbolSize": 22.788631,
+        "attributes": {
+            "eccentricity": 2,
+            "closnesscentrality": 0.7,
+            "harmonicclosnesscentrality": 0.7857142857142857,
+            "betweenesscentrality": 42,
+            "modularity_class": 2
+        },
+        "value": 22.788631,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 2
+    },
+    {
+        "id": "17",
+        "name": "多重关连数组",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 4
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "18",
+        "name": "二叉堆",
+        "itemStyle": null,
+        "symbolSize": 14.8718605,
+        "attributes": {
+            "eccentricity": 4,
+            "closnesscentrality": 0.3176470588235294,
+            "harmonicclosnesscentrality": 0.3549382716049383,
+            "betweenesscentrality": 16,
+            "modularity_class": 0
+        },
+        "value": 14.8718605,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "21",
+        "name": "数据结构",
+        "itemStyle": null,
+        "symbolSize": 30,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 65.68333333333334,
+            "modularity_class": 3
+        },
+        "value": 30,
+        "label": {
+            "normal": {
+                "show": true
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "22",
+        "name": "斐波那契堆",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "25",
+        "name": "八叉树",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "30",
+        "name": "2-3-4树",
+        "itemStyle": null,
+        "symbolSize": 13.730018,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 12.25,
+            "modularity_class": 3
+        },
+        "value": 13.730018,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "31",
+        "name": "红黑树",
+        "itemStyle": null,
+        "symbolSize": 12.131439,
+        "attributes": {
+            "eccentricity": 3,
+            "closnesscentrality": 0.38235294117647056,
+            "harmonicclosnesscentrality": 0.423076923076923,
+            "betweenesscentrality": 7,
+            "modularity_class": 2
+        },
+        "value": 12.131439,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 2
+    },
+    {
+        "id": "32",
+        "name": "连通图",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 3,
+            "closnesscentrality": 0.42105263157894735,
+            "harmonicclosnesscentrality": 0.4999999999999999,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "33",
+        "name": "佩特森图",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "36",
+        "name": "替罪羊树",
+        "itemStyle": null,
+        "symbolSize": 10.304491,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 1,
+            "modularity_class": 3
+        },
+        "value": 10.304491,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "38",
+        "name": "正则图",
+        "itemStyle": null,
+        "symbolSize": 10.304491,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 1,
+            "modularity_class": 0
+        },
+        "value": 10.304491,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "39",
+        "name": "完全图",
+        "itemStyle": null,
+        "symbolSize": 10.304491,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 1,
+            "modularity_class": 0
+        },
+        "value": 10.304491,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "40",
+        "name": "哈希表",
+        "itemStyle": null,
+        "symbolSize": 15.414869,
+        "attributes": {
+            "eccentricity": 2,
+            "closnesscentrality": 0.55,
+            "harmonicclosnesscentrality": 0.5909090909090909,
+            "betweenesscentrality": 17.78333333333333,
+            "modularity_class": 2
+        },
+        "value": 15.414869,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 2
+    },
+    {
+        "id": "44",
+        "name": "数组",
+        "itemStyle": null,
+        "symbolSize": 13.958386,
+        "attributes": {
+            "eccentricity": 2,
+            "closnesscentrality": 0.5882352941176471,
+            "harmonicclosnesscentrality": 0.65,
+            "betweenesscentrality": 13,
+            "modularity_class": 4
+        },
+        "value": 13.958386,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "45",
+        "name": "K-d树",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 3
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "46",
+        "name": "字符串",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 4,
+            "closnesscentrality": 0.35714285714285715,
+            "harmonicclosnesscentrality": 0.4083333333333333,
+            "betweenesscentrality": 0,
+            "modularity_class": 4
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "47",
+        "name": "散列函数",
+        "itemStyle": null,
+        "symbolSize": 12.385181,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 7.833333333333333,
+            "modularity_class": 4
+        },
+        "value": 12.385181,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "49",
+        "name": "二分图",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "50",
+        "name": "抽象资料型别",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 4
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "53",
+        "name": "B树",
+        "itemStyle": null,
+        "symbolSize": 22.433392,
+        "attributes": {
+            "eccentricity": 2,
+            "closnesscentrality": 0.5714285714285714,
+            "harmonicclosnesscentrality": 0.625,
+            "betweenesscentrality": 40.833333333333336,
+            "modularity_class": 2
+        },
+        "value": 22.433392,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 2
+    },
+    {
+        "id": "54",
+        "name": "二项堆",
+        "itemStyle": null,
+        "symbolSize": 15.516367,
+        "attributes": {
+            "eccentricity": 2,
+            "closnesscentrality": 0.6428571428571429,
+            "harmonicclosnesscentrality": 0.7222222222222222,
+            "betweenesscentrality": 18.116666666666667,
+            "modularity_class": 1
+        },
+        "value": 15.516367,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 1
+    },
+    {
+        "id": "56",
+        "name": "双向链表",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 3
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "57",
+        "name": "后缀树",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "58",
+        "name": "深度优先搜索",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "59",
+        "name": "关联数组",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 4
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "62",
+        "name": "广度优先搜索",
+        "itemStyle": null,
+        "symbolSize": 19.119513,
+        "attributes": {
+            "eccentricity": 2,
+            "closnesscentrality": 0.55,
+            "harmonicclosnesscentrality": 0.5909090909090909,
+            "betweenesscentrality": 29.949999999999996,
+            "modularity_class": 0
+        },
+        "value": 19.119513,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "64",
+        "name": "2-3树",
+        "itemStyle": null,
+        "symbolSize": 15.70921,
+        "attributes": {
+            "eccentricity": 3,
+            "closnesscentrality": 0.43243243243243246,
+            "harmonicclosnesscentrality": 0.5104166666666665,
+            "betweenesscentrality": 18.75,
+            "modularity_class": 1
+        },
+        "value": 15.70921,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 1
+    },
+    {
+        "id": "65",
+        "name": "堆栈",
+        "itemStyle": null,
+        "symbolSize": 14.166455,
+        "attributes": {
+            "eccentricity": 3,
+            "closnesscentrality": 0.47619047619047616,
+            "harmonicclosnesscentrality": 0.5666666666666667,
+            "betweenesscentrality": 13.683333333333332,
+            "modularity_class": 4
+        },
+        "value": 14.166455,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 4
+    },
+    {
+        "id": "66",
+        "name": "线段树",
+        "itemStyle": null,
+        "symbolSize": 11.24334,
+        "attributes": {
+            "eccentricity": 2,
+            "closnesscentrality": 0.5833333333333334,
+            "harmonicclosnesscentrality": 0.6428571428571429,
+            "betweenesscentrality": 4.083333333333333,
+            "modularity_class": 1
+        },
+        "value": 11.24334,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 1
+    },
+    {
+        "id": "69",
+        "name": "树旋转",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 3
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "70",
+        "name": "链表",
+        "itemStyle": null,
+        "symbolSize": 26.843441,
+        "attributes": {
+            "eccentricity": 3,
+            "closnesscentrality": 0.4482758620689655,
+            "harmonicclosnesscentrality": 0.5256410256410258,
+            "betweenesscentrality": 55.31666666666666,
+            "modularity_class": 2
+        },
+        "value": 26.843441,
+        "label": {
+            "normal": {
+                "show": true
+            }
+        },
+        "category": 2
+    },
+    {
+        "id": "71",
+        "name": "二元搜寻树",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 3
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "72",
+        "name": "伸展树",
+        "itemStyle": null,
+        "symbolSize": 14.5673685,
+        "attributes": {
+            "eccentricity": 4,
+            "closnesscentrality": 0.32727272727272727,
+            "harmonicclosnesscentrality": 0.39814814814814814,
+            "betweenesscentrality": 15,
+            "modularity_class": 2
+        },
+        "value": 14.5673685,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 2
+    },
+    {
+        "id": "73",
+        "name": "队列",
+        "itemStyle": null,
+        "symbolSize": 11.542755,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 5.066666666666666,
+            "modularity_class": 3
+        },
+        "value": 11.542755,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "75",
+        "name": "枚举",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "79",
+        "name": "AA树",
+        "itemStyle": null,
+        "symbolSize": 10.608982,
+        "attributes": {
+            "eccentricity": 1,
+            "closnesscentrality": 1,
+            "harmonicclosnesscentrality": 1,
+            "betweenesscentrality": 2,
+            "modularity_class": 3
+        },
+        "value": 10.608982,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 3
+    },
+    {
+        "id": "80",
+        "name": "补图",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "81",
+        "name": "凯莱图",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "82",
+        "name": "复合型别",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 0
+    },
+    {
+        "id": "84",
+        "name": "序列",
+        "itemStyle": null,
+        "symbolSize": 10,
+        "attributes": {
+            "eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 1
+        },
+        "value": 10,
+        "label": {
+            "normal": {
+                "show": false
+            }
+        },
+        "category": 1
+    }
+]
